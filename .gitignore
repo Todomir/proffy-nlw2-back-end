@@ -5,4 +5,4 @@
 .env
 
 # The development sqlite file
-database/*.sqlite
+database.sqlite
